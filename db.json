@@ -1,0 +1,118 @@
+{
+    "mates": [
+        {
+            "id": 1,
+            "name": "Agustin Casiva",
+            "description": "Delivery Director",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQHxlvoKZXwkDg/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=d3TxFE1d1FFQ4Kd44wJJERA4k9n68JcC372U1aXrE58"
+        },
+        {
+            "id": 2,
+            "name": "Ezequiel Pintos",
+            "description": "Code Cowboy and Co Founder",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQG847x2XVzOww/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=17bGJQJXbe-zKrLjPdhNTPgOLL91ttLBySrB40MEiMA"
+        },
+        {
+            "id": 3,
+            "name": "Marcos Ibanez",
+            "description": "Software Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQH0PUzsheie8Q/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=13TpgYF2CfcajgFaIFjmv93EtURwTKW-by2eV5HKpi0"
+        },
+        {
+            "id": 4,
+            "name": "Luis Gerzenstein",
+            "description": "Development Director",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQH89xZ82NVC9g/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=8ngDiVMvn8q4fyWiqwozf_b_HYORs_xaqus864PHhfs"
+        },
+        {
+            "id": 5,
+            "name": "Ariel del Campo",
+            "description": "Changarin",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQFflWO8Z7v33Q/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=0-jWLZeaO5UXFrsnXXK9F8hAlF1OoyQTEVcSTlshSzQ"
+        },
+        {
+            "id": 6,
+            "name": "Lucas Barrionuevo",
+            "description": "Drupal Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C5103AQGcp4BkLyYY6A/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=nu9KCOLIMyho9k2HL67lePYCwAp0mDEqRV-BpTBPg70"
+        },
+        {
+            "id": 7,
+            "name": "Cristian Esequiel Garcilazo",
+            "description": "Full-stack Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C4D03AQFZ4vuvL1o9sA/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=NL0trrDVNTRub2ZVDGiz9V_84k4EdorlpCGEKm5zIKw"
+        },
+        {
+            "id": 8,
+            "name": "José Silva",
+            "description": "Full Stack Engineer",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQHdzg33XEZK4g/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=lbyQ6myxW408hrWRjJM1tOfxWuH8ZFpnBKWnGHB7enQ"
+        },
+        {
+            "id": 9,
+            "name": "Sebastian Seba",
+            "description": "Software Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQHHwsIcR0kgvA/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=CNxfMV968TuNHT2cr3IQKDlIMe0r7jS6TCM-f7LkFmY"
+        },
+        {
+            "id": 10,
+            "name": "Giselle Craig",
+            "description": "Developer Contractor @ Electronic Arts",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQFPcQ2rHY0fSQ/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=yxOYWhZOxlEpS-G0kq9FYzXVzXVp4M3QAwKbzCf-omw"
+        },
+        {
+            "id": 11,
+            "name": "Sebastian Lopez",
+            "description": "Mobile Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQFajp7TQ7oAtQ/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=oYCPy3qawMLFLVX-mPp9gdjMcHC3_CLQspp9HG5z7jU"
+        },
+        {
+            "id": 12,
+            "name": "Lucas Tolosa",
+            "description": "Mobile Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C4D03AQHUJJhInGTSaQ/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=t-iEK64K-LZDy1ZcSMQseaTp4jlWCVSPOHLGlWBfyEk"
+        },
+        {
+            "id": 13,
+            "name": "Leonardo Andrés Millán",
+            "description": "Data Scientist",
+            "imgURL": "https://media.licdn.com/dms/image/C5103AQG1zYdo454xOQ/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=acp3XL8kjyK21EFE87sV8QRKpW25Q4JvDbPW8WZkvWA"
+        },
+        {
+            "id": 14,
+            "name": "Fiorella Vicentin",
+            "description": "Técnica Programadora",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQFMlsK6hfYI_w/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=HW5SjapMgLoTIHtGgR25J9rJm1yy2kIMGDjjtSf_rIM"
+        },
+        {
+            "id": 15,
+            "name": "Wenceslao Marquez Burgos",
+            "description": "Técnica Programadora",
+            "imgURL": "https://s3.amazonaws.com/hackdesign/tools/app_images/000/000/051/icon_small/vim-logo-en.png?1391303578"
+        },
+        {
+            "id": 16,
+            "name": "Facundo Ferrara",
+            "description": "Software Developer",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQGHiIuRGLSCNg/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=HjwriNxY7VhZxwXo3nP-J9q9ykhFjG6PIzqsUJP_yJc"
+        },
+        {
+            "id": 17,
+            "name": "Martin Bernaola",
+            "description": "Desarrollo web",
+            "imgURL": "https://media.licdn.com/dms/image/C5603AQEzFgtN8f0dHA/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=PXSK992krH1VC4hWS49vM4m-BTfEilavNn9koIeKNag"
+        },
+        {
+            "id": 18,
+            "name": "Braian Ariel Maciel",
+            "description": "Software developer",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQFOX62B4qsOUQ/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=VAp0xHbNBh9ggdqv1Fe9biN5-f8dkFKEi4Gz0q4avhk"
+        },
+        {
+            "id": 19,
+            "name": "Melina Pisarello",
+            "description": "Diseñadora gráfica",
+            "imgURL": "https://media.licdn.com/dms/image/C4E03AQHX_XUEh6U9hw/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=-_-RGUxlOQW8GcstmFFDqvsjLcIwc-uLR20Nd9yEq0U"
+        }
+    ]
+}
